@@ -1,0 +1,7 @@
+openai
+sounddevice
+numpy
+webrtcvad
+pydub
+pyaudio
+wave

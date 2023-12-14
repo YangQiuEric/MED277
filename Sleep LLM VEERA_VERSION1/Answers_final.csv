@@ -1,0 +1,46 @@
+Patient ID,Question ID,Question Text,Answer,Number,Structured Response
+104,Q1,How would you rate your sleep quality last night?," Last night was in 90, I slept very well",90,Quality sleep
+104,Q2,How quickly did you fall asleep?," I fell asleep almost immediately, so in 99, I didn't wake up at all, so perfect 100",99,Instant sleep
+104,Q3,How often did you wake up during the night?," No wake ups, but if I had, it usually takes less than 5 minutes to fall back asleep",5,Quick to sleep
+104,Q4,How quickly did you fall back asleep if you woke up during the night?, So 95,95,Quickly asleep
+104,Q5,How would you rate your overall sleep quality?, I'd give my sleep a 92 overall,92,High Quality
+104,Q6,Was there too much noise?," There was hardly any noise, so 93 for quietness",93,Quiet noise.
+104,Q7,Was the room too hot/cold?," The room was a bit on the cooler side, but it was still comfortable",101,Comfortable cool
+104,Q8,Was there too much light?, The light conditions were just right for a good night's sleep,101,Ideal light
+104,Q9,"Would eye mask, ear plugs, white noise machine help with sleep?"," I don't usually sleep aides, I believe they can be very helpful for others",101,Helpful aid
+102,Q1,How would you rate your sleep quality last night?," My sleep quality was around in 82, quite restful",82,Restful sleep
+102,Q2,How quickly did you fall asleep?," It took about 10 minutes, left in 90 for speed of falling asleep",10,Quickly asleep
+102,Q3,How often did you wake up during the night?, I barely woke up so I'd give it a 95,95,Little waking
+102,Q4,How quickly did you fall back asleep if you woke up during the night?," On the rare occasion I did wake up, I fell asleep almost instantly, so 98",98,Quick asleep
+102,Q5,How would you rate your overall sleep quality?, I say an 88 for overall sleep quality,88,Good sleep
+102,Q6,Was there too much noise?," It was very quiet, definitely in 95",95,Quiet night
+102,Q7,Was the room too hot/cold?," The room's temperature was almost perfect, just a tad off for my liking",101,Almost perfect
+102,Q8,Was there too much light?, The room had optimal lighting for sleep,101,Optimal lighting
+102,Q9,"Would eye mask, ear plugs, white noise machine help with sleep?"," I have never used an I'm ask or ear plugs, but they seem like they could be quite beneficial",0,No experience
+100,Q1,How would you rate your sleep quality last night?, I would rate my sleep quality last night at 75,75,Good sleep
+100,Q2,How quickly did you fall asleep?, Fairly restful with some brief awaited names,101,Restful periods
+100,Q3,How often did you wake up during the night?, It would take me about 15 minutes to fall asleep so I rate that in 85,15,Quick sleep
+100,Q4,How quickly did you fall back asleep if you woke up during the night?, I woke up a couple of times so I'll give that a 70,70,Short to sleep
+100,Q5,How would you rate your overall sleep quality?," Coming back asleep was relatively quick, perhaps within 10 minutes, so that's 90",10,Quick sleep
+100,Q6,Was there too much noise?, My overall sleep quality felt like 80,80,Sleep quality
+100,Q7,Was the room too hot/cold?," The noise level was minimal, so about 90 for quietness",90,Quiet room
+100,Q8,Was there too much light?," The room temperature was just slightly off for my preference, but still comfortable",101,Comfortable temperature
+100,Q9,"Would eye mask, ear plugs, white noise machine help with sleep?"," The lighting was adequate, it wasn't too dark nor too bright",0,No help.
+103,Q1,How would you rate your sleep quality last night?," Around a 55 for sleep quality, it was a bit choppy",55,Subpar sleep
+103,Q2,How quickly did you fall asleep?," It took around 30 minutes to fall asleep, so a 70",30,Medium time
+103,Q3,How often did you wake up during the night?, Waking up happened a few times,101,Few wakes.
+103,Q4,How quickly did you fall back asleep if you woke up during the night?, Let's say a 60,60,Medium fast
+103,Q5,How would you rate your overall sleep quality?," After waking up, I took around 50 minutes to fall asleep, so a reading of 80",50,Longer sleep
+103,Q6,Was there too much noise?," Overall, my sleep quality was about a 65",65,Moderate Quality
+103,Q7,Was the room too hot/cold?," There was a consistent hung from the AC, so I rate the brightness at 75",75,Consistent temp
+103,Q8,Was there too much light?, A room felt neither too hot nor too cold,0,Comfortable temperature
+103,Q9,"Would eye mask, ear plugs, white noise machine help with sleep?", Quite neutral,101,Neutral opinion
+101,Q1,How would you rate your sleep quality last night?," Last time it was a solid 65, I had some trouble staying sleep",65,Moderate sleep
+101,Q2,How quickly did you fall asleep?, I'd say a 50,50,Medium speed
+101,Q3,How often did you wake up during the night?, It took me quite a while to drift off,101,Long drift
+101,Q4,How quickly did you fall back asleep if you woke up during the night?," I woke up several times, so maybe around 40",40,Around 40
+101,Q5,How would you rate your overall sleep quality?," Each time I woke up, it took around 20 minutes to fall asleep again",20,Difficult sleep
+101,Q6,Was there too much noise?, So let's say 60,60,Medium noise
+101,Q7,Was the room too hot/cold?," Considering the interruptions, I rated a 55",55,Neutral rating.
+101,Q8,Was there too much light?," There was some noise from the street, so I gave it a 40 for quietness",40,Moderate quiet
+101,Q9,"Would eye mask, ear plugs, white noise machine help with sleep?"," The room felt a bit chilly, which was slightly bothersome",101,Room chilly
