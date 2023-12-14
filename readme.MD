@@ -1,7 +1,7 @@
 # Automation of Sleep Surveys
 
 ## Overview
-This ASS_chatbot.ipynb Python script facilitates a comprehensive assessment of sleep quality through interactive voice-based surveys. It integrates speech-to-text and text-to-speech functionalities, enabling users to respond to questions verbally. The focus is on analyzing responses to the Richards-Campbell Sleep Questionnaire and other sleep-related queries. We only choose this chatbot version for the report.
+This ASS_chatbot.ipynb Python script facilitates a comprehensive assessment of sleep quality through interactive voice-based surveys. It integrates speech-to-text and text-to-speech functionalities, enabling users to respond to questions verbally. The focus is on analyzing responses to the Richards-Campbell Sleep Questionnaire and other sleep-related queries. version1_onetime_recording.zip is the One-Time Complete Recording Version. We choose the chatbot version for the report.
 
 ## Features
 - **Text-to-Speech and Speech-to-Text Conversion**: Converts questions to speech and user responses back to text.
